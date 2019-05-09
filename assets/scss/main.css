@@ -3,7 +3,6 @@
   display: grid;
   min-height: 100px;
   grid-auto-flow: column;
-  position: fixed;
   top: 1px;
   background-color: black;
   border-radius: 10px;
@@ -13,8 +12,8 @@
   overflow: hidden;
   opacity: 0.9;
   width: 95%;
-  margin-bottom: 500px;
-  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-top: 5px;
 }
 
 #navbar p {
@@ -62,7 +61,53 @@ header {
 header img {
   border: 1px solid #e0d3ce;
   border-radius: 20px;
-  margin-top: 300px;
+  margin-top: 5px;
+}
+
+.wrapper > div {
+  margin: 50px 80px;
+  margin-left: 40px;
+  border-radius: 10px;
+}
+
+.wrapper > div .item3 img {
+  width: 100px;
+}
+
+.wrapper > div h1 {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 50px;
+}
+
+.wrapper > div p {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.wrapper > div img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+.wrapper > div h2 {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.wrapper div.item3 img {
+  width: 200px;
+  height: 30%;
+  float: left;
+  padding: 5px;
 }
 
 html {
@@ -75,7 +120,7 @@ html {
   border-radius: 20px;
 }
 
-body {
-  background-color: #485761;
+hr {
+  width: 90%;
 }
 /*# sourceMappingURL=main.css.map */

@@ -1,0 +1,49 @@
+.wrapper > div{
+
+margin: 50px 80px;
+margin-left: 40px;
+border-radius:10px;
+.item3 img{
+    width:100px;
+}
+}
+
+
+.wrapper > div h1{
+    text-align: center;
+font-family:'Oswald', sans-serif;
+font-size: 50px;
+
+}
+
+.wrapper > div p{
+    text-align: center;
+font-family:'Oswald', sans-serif;
+font-size: 20px;
+margin-left:200px;
+margin-right:200px;
+}
+.wrapper > div img{
+    
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+.wrapper > div h2{
+    text-align: center;
+    font-family:'Oswald', sans-serif;
+    font-size: 20px;
+    margin-left:200px;
+    margin-right:200px;
+    
+}
+.wrapper div.item3 img{
+    width: 200px;
+    height: 30%;
+   
+    float: left;
+   
+    padding: 5px;
+}
