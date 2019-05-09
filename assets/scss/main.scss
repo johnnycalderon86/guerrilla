@@ -1,5 +1,6 @@
 @import "./components/navbar";
 @import "./components/header";
+@import "./components/wrapper";
 
 html{
     scroll-behavior: smooth;
@@ -10,10 +11,9 @@ html{
     border-radius: 20px;
 }
 
-body{
-    background-color: rgb(72, 87, 97);
-    
+
+
+hr{
+    width: 90%;
 }
-
-
   
