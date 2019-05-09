@@ -1,0 +1,19 @@
+@import "./components/navbar";
+@import "./components/header";
+
+html{
+    scroll-behavior: smooth;
+}
+.imgheader{
+    margin: 30px 10px;
+    padding:50px 10px;
+    border-radius: 20px;
+}
+
+body{
+    background-color: rgb(72, 87, 97);
+    
+}
+
+
+  
