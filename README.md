@@ -22,6 +22,6 @@ What is  it:
 
   It is a very basic site. It is build with HTML and CSS. 
 
-  No layout grid, just constructed with divs that i styled with CSS
+ 
   ---
   This was an excercise we were assigned in class.
