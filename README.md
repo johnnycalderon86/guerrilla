@@ -16,7 +16,7 @@ This work was done during my junior web developer course at Becode.org.
 ---
 Link to the preview  [link][example].
 
-  [example]: https://johnnycalderondeveloper.github.io/guerrilla/
+  [example]: https://johnnycalderon86.github.io/guerrilla/
 
 What is  it:
 
